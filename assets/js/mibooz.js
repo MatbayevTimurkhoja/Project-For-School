@@ -105,6 +105,8 @@
 
 
 
+
+
   // Project One Carousel
   if ($(".project-one__carousel").length) {
     $(".project-one__carousel").owlCarousel({
@@ -246,6 +248,7 @@
       },
     });
   }
+
 
 
   if ($(".scroll-to-target").length) {
