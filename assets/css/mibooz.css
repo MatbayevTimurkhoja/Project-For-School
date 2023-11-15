@@ -368,7 +368,7 @@ ul {
 .main-menu-wrapper__logo {
     position: relative;
     padding-top: 37px;
-    padding-left: 150px;
+    /* padding-left: 150px; */
     padding-bottom: 37px;
     z-index: 11;
 }
@@ -404,7 +404,7 @@ ul {
     position: relative;
     display: flex;
     align-items: center;
-    margin-right: 90px;
+    margin-right: 70px;
 }
 
 .main-menu-wrapper__call-icon {
@@ -419,7 +419,8 @@ ul {
 }
 
 .main-menu-wrapper__call-number {
-    margin-left: 15px;
+    /* margin-left: 15px; */
+    /* padding-left: 15px; */
 }
 
 .main-menu-wrapper__call-number h5 {
