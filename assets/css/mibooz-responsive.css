@@ -571,7 +571,12 @@
 
 /* Mobile Layout: 320px. */
 @media only screen and (max-width: 767px) {
+    .our-directory__right .section-title__tagline {
+        padding-top: 50px;
+    }
+
     .section-title__title {
+        /* width: 400px; */
         font-size: 30px;
         line-height: 40px;
     }
